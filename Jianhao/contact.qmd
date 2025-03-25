@@ -1,0 +1,12 @@
+---
+title: "Contact"
+format: html
+---
+
+## 📬 Contact Me
+
+Feel free to reach out for collaboration or networking!
+
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)

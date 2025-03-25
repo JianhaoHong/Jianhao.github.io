@@ -1,0 +1,20 @@
+---
+title: "CV"
+format: html
+---
+
+## 🧾 Curriculum Vitae
+
+📄 [Download CV (PDF)](cv.pdf)
+
+### 👨‍🎓 Education
+- B.S. in Data Science, XYZ University (2020–2024)
+
+### 💼 Experience
+- Data Analyst Intern, ABC Corp (Summer 2023)
+  - Cleaned and analyzed large customer datasets using Python and SQL
+  - Delivered insights to support business decisions
+
+### 🛠 Skills
+- Python, R, SQL, Tableau, Git
+- Machine Learning, Data Visualization

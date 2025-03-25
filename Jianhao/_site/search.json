@@ -12,5 +12,47 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a supervised machine learning model to predict loan defaults using logistic regression and random forest.\n\nTools: Python, scikit-learn, pandas\n\nGitHub Repository\n\n\n\n\n\nCreated an interactive Tableau dashboard to analyze COVID-19 trends across countries.\n\nTools: Tableau, Excel\n\nLink to Dashboard\n\n\nAdd more projects as needed!"
+  },
+  {
+    "objectID": "projects.html#my-projects",
+    "href": "projects.html#my-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a supervised machine learning model to predict loan defaults using logistic regression and random forest.\n\nTools: Python, scikit-learn, pandas\n\nGitHub Repository\n\n\n\n\n\nCreated an interactive Tableau dashboard to analyze COVID-19 trends across countries.\n\nTools: Tableau, Excel\n\nLink to Dashboard\n\n\nAdd more projects as needed!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out for collaboration or networking!\n\n📧 Email: your.email@example.com\n\n💼 LinkedIn: linkedin.com/in/yourprofile\n\n🐙 GitHub: github.com/yourusername"
+  },
+  {
+    "objectID": "contact.html#contact-me",
+    "href": "contact.html#contact-me",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out for collaboration or networking!\n\n📧 Email: your.email@example.com\n\n💼 LinkedIn: linkedin.com/in/yourprofile\n\n🐙 GitHub: github.com/yourusername"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "📄 Download CV (PDF)\n\n\n\nB.S. in Data Science, XYZ University (2020–2024)\n\n\n\n\n\nData Analyst Intern, ABC Corp (Summer 2023)\n\nCleaned and analyzed large customer datasets using Python and SQL\nDelivered insights to support business decisions\n\n\n\n\n\n\nPython, R, SQL, Tableau, Git\nMachine Learning, Data Visualization"
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "CV",
+    "section": "",
+    "text": "📄 Download CV (PDF)\n\n\n\nB.S. in Data Science, XYZ University (2020–2024)\n\n\n\n\n\nData Analyst Intern, ABC Corp (Summer 2023)\n\nCleaned and analyzed large customer datasets using Python and SQL\nDelivered insights to support business decisions\n\n\n\n\n\n\nPython, R, SQL, Tableau, Git\nMachine Learning, Data Visualization"
   }
 ]

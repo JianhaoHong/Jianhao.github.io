@@ -1,0 +1,26 @@
+---
+title: "Projects"
+format: html
+---
+
+## 📂 My Projects
+
+### 🧠 Project 1: Machine Learning Classifier
+Built a supervised machine learning model to predict loan defaults using logistic regression and random forest.
+
+- Tools: Python, scikit-learn, pandas  
+- [GitHub Repository](https://github.com/yourusername/project1)
+
+---
+
+### 📊 Project 2: Data Dashboard with Tableau
+Created an interactive Tableau dashboard to analyze COVID-19 trends across countries.
+
+- Tools: Tableau, Excel  
+- [Link to Dashboard](https://public.tableau.com/...)
+
+---
+
+*Add more projects as needed!*
+
+
